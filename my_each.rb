@@ -4,6 +4,6 @@ def my_each(array)
     yield(array[i])
       i += 1
     end
-    array# put argument(s) here
+    array # put argument(s) here
   # code here
 end
